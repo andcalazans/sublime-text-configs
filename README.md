@@ -3,11 +3,12 @@ These are my settings Sublime Text 3
 
 
 ## Packages
-* Emmet
-* MoveText
-* ERB Snippets
-* Color Highlighter
 * AlignTab
+* Color Highlighter
+* Emmet
+* ERB Snippets
+* MoveText
+* zz File Icons
 
 
 ## Themes
