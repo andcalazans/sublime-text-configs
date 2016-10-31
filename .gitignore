@@ -1,0 +1,10 @@
+.DS_Store
+/Cache
+/Index
+/Local
+/Installed\ Packages
+/Packages/*
+!/Packages/User
+/Packages/User/*
+!/Packages/User/*.sublime-settings
+!/Packages/User/*.sublime-keymap

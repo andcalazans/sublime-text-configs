@@ -1,0 +1,6 @@
+[
+  { "keys": ["super+ctrl+left"], "command": "move_text_left" },
+  { "keys": ["super+ctrl+right"], "command": "move_text_right" },
+  { "keys": ["super+shift+v"], "command": "paste" },
+  { "keys": ["super+v"], "command": "paste_and_indent" }
+]
