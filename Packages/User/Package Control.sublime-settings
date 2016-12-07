@@ -6,12 +6,14 @@
 	"installed_packages":
 	[
 		"AlignTab",
+		"AutoFileName",
 		"Color Highlighter",
 		"Emmet",
 		"ERB Snippets",
 		"Material Theme",
 		"MoveText",
 		"Package Control",
+		"SideBarEnhancements",
 		"zz File Icons"
 	]
 }
